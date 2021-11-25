@@ -1,0 +1,236 @@
+{
+  "data": [
+    {
+      "title":"Xiaomi手机",
+      "_id":"1",
+      "content":[
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_01.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_02.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_03.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_04.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_05.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_06.jpg"
+        }
+      ]
+    },
+    {
+      "title":"Redmi红米",
+      "_id":"2",
+      "content":[
+        {
+          "name": "Redmi红米",
+          "price": "1599元起",
+          "img_url": "./img/160x110_nav_07.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_08.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_09.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_10.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_11.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_12.jpg"
+        }
+      ]
+    },
+    {
+      "title":"电视",
+      "_id":"3",
+      "content":[
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_13.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_14.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_15.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_16.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_17.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_18.jpg"
+        }
+      ]
+    },
+    {
+      "title":"笔记本",
+      "_id":"4",
+      "content":[
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_19.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_20.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_22.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_23.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_24.jpg"
+        }
+      ]
+    },
+    {
+      "title":"平板",
+      "_id":"5",
+      "content":[
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_22.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_09.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_13.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_14.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_02.jpg"
+        }
+      ]
+    },
+    {
+      "title":"家电",
+      "_id":"6",
+      "content":[
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_03.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_05.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_15.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_26.jpg"
+        }
+      ]
+    },
+    {
+      "title":"路由器",
+      "_id":"7",
+      "content":[
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_11.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_22.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_05.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_09.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_05.jpg"
+        },
+        {
+          "name": "Xiaomi",
+          "price": "2599元起",
+          "img_url": "./img/160x110_nav_16.jpg"
+        }
+      ]
+    }
+  ]
+}

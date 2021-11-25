@@ -1,0 +1,1445 @@
+{
+  "data": [
+    {
+      "type": "手机",
+      "promo": [
+        "./img/block_phone_promo_01.jpg"
+      ],
+      "content": [
+        {
+          "sort": "",
+          "list": [
+            {
+              "name": "小米10 Pro",
+              "brief": "骁龙865 / 50倍变焦",
+              "price": "4999",
+              "oldPrice": "",
+              "img": "./img/block_phone_01.jpg"
+            },
+            {
+              "name": "小米10",
+              "brief": "骁龙865/1亿像素相机",
+              "price": "3999",
+              "oldPrice": "",
+              "img": "./img/block_phone_02.jpg"
+            },
+            {
+              "name": "Redmi K30",
+              "brief": "120Hz流速屏，全速热爱",
+              "price": "1599",
+              "oldPrice": "1699",
+              "img": "./img/block_phone_03.jpg"
+            },
+            {
+              "name": "Redmi K30 5G",
+              "brief": "双模5G，120Hz流速屏",
+              "price": "1999",
+              "oldPrice": "",
+              "img": "./img/block_phone_04.jpg"
+            },
+            {
+              "name": "Redmi Note 8 Pro",
+              "brief": "6400万全场景四摄",
+              "price": "1199",
+              "oldPrice": "1399",
+              "img": "./img/block_phone_05.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_phone_06.jpg"
+            },
+            {
+              "name": "Redmi pro Note 8",
+              "brief": "4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_phone_07.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "1899",
+              "oldPrice": "2999",
+              "img": "./img/block_phone_08.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "智能穿戴",
+      "promo": [
+        "./img/block_watch_promo_01.jpg"
+      ],
+      "content": [
+        {
+          "sort": "热门",
+          "list": [
+            {
+              "name": "小米10 Pro",
+              "brief": "骁龙865 / 50倍变焦",
+              "price": "4999",
+              "oldPrice": "",
+              "img": "./img/block_watch_01.jpg"
+            },
+            {
+              "name": "小米10",
+              "brief": "骁龙865/1亿像素相机",
+              "price": "3999",
+              "oldPrice": "",
+              "img": "./img/block_watch_02.jpg"
+            },
+            {
+              "name": "Redmi K30",
+              "brief": "120Hz流速屏，全速热爱",
+              "price": "1599",
+              "oldPrice": "1699",
+              "img": "./img/block_watch_03.jpg"
+            },
+            {
+              "name": "Redmi K30 5G",
+              "brief": "双模5G，120Hz流速屏",
+              "price": "1999",
+              "oldPrice": "",
+              "img": "./img/block_watch_04.jpg"
+            },
+            {
+              "name": "Redmi Note 8 Pro",
+              "brief": "6400万全场景四摄",
+              "price": "1199",
+              "oldPrice": "1399",
+              "img": "./img/block_watch_05.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_watch_06.jpg"
+            },
+            {
+              "name": "Redmi Note 2",
+              "brief": "千元3800万四摄",
+              "price": "1899",
+              "oldPrice": "1999",
+              "img": "./img/block_watch_07.jpg"
+            }
+          ]
+        },
+        {
+          "sort": "穿戴",
+          "list": [
+            {
+              "name": "小米10 Pro",
+              "brief": "骁龙865 / 50倍变焦",
+              "price": "4999",
+              "oldPrice": "",
+              "img": "./img/block_watch_08.jpg"
+            },
+            {
+              "name": "小米10",
+              "brief": "骁龙865/1亿像素相机",
+              "price": "3999",
+              "oldPrice": "",
+              "img": "./img/block_watch_09.jpg"
+            },
+            {
+              "name": "Redmi K30",
+              "brief": "120Hz流速屏，全速热爱",
+              "price": "1599",
+              "oldPrice": "1699",
+              "img": "./img/block_watch_10.jpg"
+            },
+            {
+              "name": "Redmi K30 5G",
+              "brief": "双模5G，120Hz流速屏",
+              "price": "1999",
+              "oldPrice": "",
+              "img": "./img/block_watch_11.jpg"
+            },
+            {
+              "name": "Redmi Note 8 Pro",
+              "brief": "6400万全场景四摄",
+              "price": "1199",
+              "oldPrice": "1399",
+              "img": "./img/block_watch_12.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_watch_02.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "家电",
+      "promo": [
+        "./img/block_tv_promo_01.jpg",
+        "./img/block_tv_promo_02.jpg"
+      ],
+      "content": [
+        {
+          "sort": "热门",
+          "list": [
+            {
+              "name": "小米10 Pro",
+              "brief": "骁龙865 / 50倍变焦",
+              "price": "4999",
+              "oldPrice": "",
+              "img": "./img/block_tv_11.jpg"
+            },
+            {
+              "name": "小米10",
+              "brief": "骁龙865/1亿像素相机",
+              "price": "3999",
+              "oldPrice": "",
+              "img": "./img/block_tv_12.jpg"
+            },
+            {
+              "name": "Redmi K30",
+              "brief": "120Hz流速屏，全速热爱",
+              "price": "1599",
+              "oldPrice": "1699",
+              "img": "./img/block_tv_03.jpg"
+            },
+            {
+              "name": "Redmi K30 5G",
+              "brief": "双模5G，120Hz流速屏",
+              "price": "1999",
+              "oldPrice": "",
+              "img": "./img/block_tv_04.jpg"
+            },
+            {
+              "name": "Redmi Note 8 Pro",
+              "brief": "6400万全场景四摄",
+              "price": "1199",
+              "oldPrice": "1399",
+              "img": "./img/block_tv_05.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_tv_06.jpg"
+            },
+            {
+              "name": "Redmi Note 2",
+              "brief": "千元3800万四摄",
+              "price": "1899",
+              "oldPrice": "1999",
+              "img": "./img/block_tv_07.jpg"
+            },
+            {
+              "name": "Redmi Note 2",
+              "brief": "千元3800万四摄",
+              "price": "1899",
+              "oldPrice": "1999",
+              "img": "./img/block_tv_08.jpg"
+            }
+          ]
+        },
+        {
+          "sort": "电视影音",
+          "list": [
+            {
+              "name": "小米10 Pro",
+              "brief": "骁龙865 / 50倍变焦",
+              "price": "4999",
+              "oldPrice": "",
+              "img": "./img/block_tv_09.jpg"
+            },
+            {
+              "name": "小米10",
+              "brief": "骁龙865/1亿像素相机",
+              "price": "3999",
+              "oldPrice": "",
+              "img": "./img/block_tv_10.jpg"
+            },
+            {
+              "name": "Redmi K30",
+              "brief": "120Hz流速屏，全速热爱",
+              "price": "1599",
+              "oldPrice": "1699",
+              "img": "./img/block_tv_11.jpg"
+            },
+            {
+              "name": "Redmi K30 5G",
+              "brief": "双模5G，120Hz流速屏",
+              "price": "1999",
+              "oldPrice": "",
+              "img": "./img/block_tv_12.jpg"
+            },
+            {
+              "name": "Redmi Note 8 Pro",
+              "brief": "6400万全场景四摄",
+              "price": "1199",
+              "oldPrice": "1399",
+              "img": "./img/block_tv_13.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_tv_14.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_tv_15.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "生活电器",
+      "promo": [
+        "./img/block_electric_promo_01.jpg",
+        "./img/block_electric_promo_02.jpg"
+      ],
+      "content": [
+        {
+          "sort": "扫地机",
+          "list": [
+            {
+              "name": "小米10 Pro",
+              "brief": "骁龙865 / 50倍变焦",
+              "price": "4999",
+              "oldPrice": "",
+              "img": "./img/block_electric_01.jpg"
+            },
+            {
+              "name": "小米10",
+              "brief": "骁龙865/1亿像素相机",
+              "price": "3999",
+              "oldPrice": "",
+              "img": "./img/block_electric_02.jpg"
+            },
+            {
+              "name": "Redmi K30",
+              "brief": "120Hz流速屏，全速热爱",
+              "price": "1599",
+              "oldPrice": "1699",
+              "img": "./img/block_electric_03.jpg"
+            },
+            {
+              "name": "Redmi K30 5G",
+              "brief": "双模5G，120Hz流速屏",
+              "price": "1999",
+              "oldPrice": "",
+              "img": "./img/block_electric_04.jpg"
+            },
+            {
+              "name": "Redmi Note 8 Pro",
+              "brief": "6400万全场景四摄",
+              "price": "1199",
+              "oldPrice": "1399",
+              "img": "./img/block_electric_05.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_06.jpg"
+            },
+            {
+              "name": "Redmi Note 2",
+              "brief": "千元3800万四摄",
+              "price": "1899",
+              "oldPrice": "1999",
+              "img": "./img/block_electric_07.jpg"
+            },
+            {
+              "name": "Redmi Note 2",
+              "brief": "千元3800万四摄",
+              "price": "1899",
+              "oldPrice": "1999",
+              "img": "./img/block_electric_08.jpg"
+            }
+          ]
+        },
+        {
+          "sort": "空净",
+          "list": [
+            {
+              "name": "小米10 Pro",
+              "brief": "骁龙865 / 50倍变焦",
+              "price": "4999",
+              "oldPrice": "",
+              "img": "./img/block_electric_09.jpg"
+            },
+            {
+              "name": "小米10",
+              "brief": "骁龙865/1亿像素相机",
+              "price": "3999",
+              "oldPrice": "",
+              "img": "./img/block_electric_10.jpg"
+            },
+            {
+              "name": "Redmi K30",
+              "brief": "120Hz流速屏，全速热爱",
+              "price": "1599",
+              "oldPrice": "1699",
+              "img": "./img/block_electric_11.jpg"
+            },
+            {
+              "name": "Redmi K30 5G",
+              "brief": "双模5G，120Hz流速屏",
+              "price": "1999",
+              "oldPrice": "",
+              "img": "./img/block_electric_12.jpg"
+            },
+            {
+              "name": "Redmi Note 8 Pro",
+              "brief": "6400万全场景四摄",
+              "price": "1199",
+              "oldPrice": "1399",
+              "img": "./img/block_electric_13.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_14.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_15.jpg"
+            }
+          ]
+        },
+        {
+          "sort": "清洁",
+          "list": [
+            {
+              "name": "小米10 Pro",
+              "brief": "骁龙865 / 50倍变焦",
+              "price": "4999",
+              "oldPrice": "",
+              "img": "./img/block_electric_16.jpg"
+            },
+            {
+              "name": "小米10",
+              "brief": "骁龙865/1亿像素相机",
+              "price": "3999",
+              "oldPrice": "",
+              "img": "./img/block_electric_17.jpg"
+            },
+            {
+              "name": "Redmi K30",
+              "brief": "120Hz流速屏，全速热爱",
+              "price": "1599",
+              "oldPrice": "1699",
+              "img": "./img/block_electric_18.jpg"
+            },
+            {
+              "name": "Redmi K30 5G",
+              "brief": "双模5G，120Hz流速屏",
+              "price": "1999",
+              "oldPrice": "",
+              "img": "./img/block_electric_19.jpg"
+            },
+            {
+              "name": "Redmi Note 8 Pro",
+              "brief": "6400万全场景四摄",
+              "price": "1199",
+              "oldPrice": "1399",
+              "img": "./img/block_electric_20.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_21.jpg"
+            },
+            {
+              "name": "Redmi Note 2",
+              "brief": "千元3800万四摄",
+              "price": "1899",
+              "oldPrice": "1999",
+              "img": "./img/block_electric_22.jpg"
+            },
+            {
+              "name": "Redmi Note 2",
+              "brief": "千元3800万四摄",
+              "price": "1899",
+              "oldPrice": "1999",
+              "img": "./img/block_electric_23.jpg"
+            }
+          ]
+        },
+        {
+          "sort": "风扇",
+          "list": [
+            {
+              "name": "小米10 Pro",
+              "brief": "骁龙865 / 50倍变焦",
+              "price": "4999",
+              "oldPrice": "",
+              "img": "./img/block_electric_09.jpg"
+            },
+            {
+              "name": "小米10",
+              "brief": "骁龙865/1亿像素相机",
+              "price": "3999",
+              "oldPrice": "",
+              "img": "./img/block_electric_10.jpg"
+            },
+            {
+              "name": "Redmi K30",
+              "brief": "120Hz流速屏，全速热爱",
+              "price": "1599",
+              "oldPrice": "1699",
+              "img": "./img/block_electric_11.jpg"
+            },
+            {
+              "name": "Redmi K30 5G",
+              "brief": "双模5G，120Hz流速屏",
+              "price": "1999",
+              "oldPrice": "",
+              "img": "./img/block_electric_12.jpg"
+            },
+            {
+              "name": "Redmi Note 8 Pro",
+              "brief": "6400万全场景四摄",
+              "price": "1199",
+              "oldPrice": "1399",
+              "img": "./img/block_electric_13.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_14.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_15.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "厨房电器",
+      "promo": [
+        "./img/block_kitchen_promo_01.jpg",
+        "./img/block_kitchen_promo_02.jpg"
+      ],
+      "content": [
+        {
+          "sort": "净水器",
+          "list": [
+            {
+              "name": "小米10 Pro",
+              "brief": "骁龙865 / 50倍变焦",
+              "price": "4999",
+              "oldPrice": "",
+              "img": "./img/block_electric_01.jpg"
+            },
+            {
+              "name": "小米10",
+              "brief": "骁龙865/1亿像素相机",
+              "price": "3999",
+              "oldPrice": "",
+              "img": "./img/block_electric_11.jpg"
+            },
+            {
+              "name": "Redmi K30",
+              "brief": "120Hz流速屏，全速热爱",
+              "price": "1599",
+              "oldPrice": "1699",
+              "img": "./img/block_electric_03.jpg"
+            },
+            {
+              "name": "Redmi K30 5G",
+              "brief": "双模5G，120Hz流速屏",
+              "price": "1999",
+              "oldPrice": "",
+              "img": "./img/block_electric_19.jpg"
+            },
+            {
+              "name": "Redmi Note 8 Pro",
+              "brief": "6400万全场景四摄",
+              "price": "1199",
+              "oldPrice": "1399",
+              "img": "./img/block_electric_05.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_06.jpg"
+            },
+            {
+              "name": "Redmi Note 2",
+              "brief": "千元3800万四摄",
+              "price": "1899",
+              "oldPrice": "1999",
+              "img": "./img/block_electric_07.jpg"
+            },
+            {
+              "name": "Redmi Note 2",
+              "brief": "千元3800万四摄",
+              "price": "1899",
+              "oldPrice": "1999",
+              "img": "./img/block_electric_08.jpg"
+            }
+          ]
+        },
+        {
+          "sort": "烟灶",
+          "list": [
+            {
+              "name": "小米10 Pro",
+              "brief": "骁龙865 / 50倍变焦",
+              "price": "4999",
+              "oldPrice": "",
+              "img": "./img/block_electric_03.jpg"
+            },
+            {
+              "name": "小米10",
+              "brief": "骁龙865/1亿像素相机",
+              "price": "3999",
+              "oldPrice": "",
+              "img": "./img/block_electric_10.jpg"
+            },
+            {
+              "name": "Redmi K30",
+              "brief": "120Hz流速屏，全速热爱",
+              "price": "1599",
+              "oldPrice": "1699",
+              "img": "./img/block_electric_13.jpg"
+            },
+            {
+              "name": "Redmi K30 5G",
+              "brief": "双模5G，120Hz流速屏",
+              "price": "1999",
+              "oldPrice": "",
+              "img": "./img/block_electric_12.jpg"
+            },
+            {
+              "name": "Redmi Note 8 Pro",
+              "brief": "6400万全场景四摄",
+              "price": "1199",
+              "oldPrice": "1399",
+              "img": "./img/block_electric_01.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_14.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_05.jpg"
+            }
+          ]
+        },
+        {
+          "sort": "电饭煲",
+          "list": [
+            {
+              "name": "小米10 Pro",
+              "brief": "骁龙865 / 50倍变焦",
+              "price": "4999",
+              "oldPrice": "",
+              "img": "./img/block_electric_08.jpg"
+            },
+            {
+              "name": "小米10",
+              "brief": "骁龙865/1亿像素相机",
+              "price": "3999",
+              "oldPrice": "",
+              "img": "./img/block_electric_17.jpg"
+            },
+            {
+              "name": "Redmi K30",
+              "brief": "120Hz流速屏，全速热爱",
+              "price": "1599",
+              "oldPrice": "1699",
+              "img": "./img/block_electric_14.jpg"
+            },
+            {
+              "name": "Redmi K30 5G",
+              "brief": "双模5G，120Hz流速屏",
+              "price": "1999",
+              "oldPrice": "",
+              "img": "./img/block_electric_19.jpg"
+            },
+            {
+              "name": "Redmi Note 8 Pro",
+              "brief": "6400万全场景四摄",
+              "price": "1199",
+              "oldPrice": "1399",
+              "img": "./img/block_electric_05.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_21.jpg"
+            },
+            {
+              "name": "Redmi Note 2",
+              "brief": "千元3800万四摄",
+              "price": "1899",
+              "oldPrice": "1999",
+              "img": "./img/block_electric_07.jpg"
+            },
+            {
+              "name": "Redmi Note 2",
+              "brief": "千元3800万四摄",
+              "price": "1899",
+              "oldPrice": "1999",
+              "img": "./img/block_electric_23.jpg"
+            }
+          ]
+        },
+        {
+          "sort": "微蒸烤",
+          "list": [
+            {
+              "name": "小米10 Pro",
+              "brief": "骁龙865 / 50倍变焦",
+              "price": "4999",
+              "oldPrice": "",
+              "img": "./img/block_electric_03.jpg"
+            },
+            {
+              "name": "Redmi K30 5G",
+              "brief": "双模5G，120Hz流速屏",
+              "price": "1999",
+              "oldPrice": "",
+              "img": "./img/block_electric_13.jpg"
+            },
+            {
+              "name": "Redmi Note 8 Pro",
+              "brief": "6400万全场景四摄",
+              "price": "1199",
+              "oldPrice": "1399",
+              "img": "./img/block_electric_12.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_02.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_15.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "智能家居",
+      "promo": [
+        "./img/block_ai_promo_01.jpg",
+        "./img/block_ai_promo_02.jpg"
+      ],
+      "content": [
+        {
+          "sort": "小爱音箱",
+          "list": [
+            {
+              "name": "小米10 Pro",
+              "brief": "骁龙865 / 50倍变焦",
+              "price": "4999",
+              "oldPrice": "",
+              "img": "./img/block_electric_21.jpg"
+            },
+            {
+              "name": "小米10",
+              "brief": "骁龙865/1亿像素相机",
+              "price": "3999",
+              "oldPrice": "",
+              "img": "./img/block_electric_05.jpg"
+            },
+            {
+              "name": "Redmi K30",
+              "brief": "120Hz流速屏，全速热爱",
+              "price": "1599",
+              "oldPrice": "1699",
+              "img": "./img/block_electric_03.jpg"
+            },
+            {
+              "name": "Redmi K30 5G",
+              "brief": "双模5G，120Hz流速屏",
+              "price": "1999",
+              "oldPrice": "",
+              "img": "./img/block_electric_19.jpg"
+            },
+            {
+              "name": "Redmi Note 8 Pro",
+              "brief": "6400万全场景四摄",
+              "price": "1199",
+              "oldPrice": "1399",
+              "img": "./img/block_electric_05.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_06.jpg"
+            },
+            {
+              "name": "Redmi Note 2",
+              "brief": "千元3800万四摄",
+              "price": "1899",
+              "oldPrice": "1999",
+              "img": "./img/block_electric_07.jpg"
+            },
+            {
+              "name": "Redmi Note 2",
+              "brief": "千元3800万四摄",
+              "price": "1899",
+              "oldPrice": "1999",
+              "img": "./img/block_electric_08.jpg"
+            }
+          ]
+        },
+        {
+          "sort": "门锁",
+          "list": [
+            {
+              "name": "小米10 Pro",
+              "brief": "骁龙865 / 50倍变焦",
+              "price": "4999",
+              "oldPrice": "",
+              "img": "./img/block_electric_13.jpg"
+            },
+            {
+              "name": "小米10",
+              "brief": "骁龙865/1亿像素相机",
+              "price": "3999",
+              "oldPrice": "",
+              "img": "./img/block_electric_11.jpg"
+            },
+            {
+              "name": "Redmi K30",
+              "brief": "120Hz流速屏，全速热爱",
+              "price": "1599",
+              "oldPrice": "1699",
+              "img": "./img/block_electric_14.jpg"
+            },
+            {
+              "name": "Redmi K30 5G",
+              "brief": "双模5G，120Hz流速屏",
+              "price": "1999",
+              "oldPrice": "",
+              "img": "./img/block_electric_22.jpg"
+            },
+            {
+              "name": "Redmi Note 8 Pro",
+              "brief": "6400万全场景四摄",
+              "price": "1199",
+              "oldPrice": "1399",
+              "img": "./img/block_electric_01.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_14.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_05.jpg"
+            }
+          ]
+        },
+        {
+          "sort": "路由器",
+          "list": [
+            {
+              "name": "小米10 Pro",
+              "brief": "骁龙865 / 50倍变焦",
+              "price": "4999",
+              "oldPrice": "",
+              "img": "./img/block_electric_08.jpg"
+            },
+            {
+              "name": "小米10",
+              "brief": "骁龙865/1亿像素相机",
+              "price": "3999",
+              "oldPrice": "",
+              "img": "./img/block_electric_17.jpg"
+            },
+            {
+              "name": "Redmi K30",
+              "brief": "120Hz流速屏，全速热爱",
+              "price": "1599",
+              "oldPrice": "1699",
+              "img": "./img/block_electric_14.jpg"
+            },
+            {
+              "name": "Redmi K30 5G",
+              "brief": "双模5G，120Hz流速屏",
+              "price": "1999",
+              "oldPrice": "",
+              "img": "./img/block_electric_19.jpg"
+            },
+            {
+              "name": "Redmi Note 8 Pro",
+              "brief": "6400万全场景四摄",
+              "price": "1199",
+              "oldPrice": "1399",
+              "img": "./img/block_electric_05.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_21.jpg"
+            },
+            {
+              "name": "Redmi Note 2",
+              "brief": "千元3800万四摄",
+              "price": "1899",
+              "oldPrice": "1999",
+              "img": "./img/block_electric_07.jpg"
+            },
+            {
+              "name": "Redmi Note 2",
+              "brief": "千元3800万四摄",
+              "price": "1899",
+              "oldPrice": "1999",
+              "img": "./img/block_electric_23.jpg"
+            }
+          ]
+        },
+        {
+          "sort": "智能设备",
+          "list": [
+            {
+              "name": "小米10 Pro",
+              "brief": "骁龙865 / 50倍变焦",
+              "price": "4999",
+              "oldPrice": "",
+              "img": "./img/block_electric_03.jpg"
+            },
+            {
+              "name": "Redmi K30 5G",
+              "brief": "双模5G，120Hz流速屏",
+              "price": "1999",
+              "oldPrice": "",
+              "img": "./img/block_electric_13.jpg"
+            },
+            {
+              "name": "Redmi Note 8 Pro",
+              "brief": "6400万全场景四摄",
+              "price": "1199",
+              "oldPrice": "1399",
+              "img": "./img/block_electric_12.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_02.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_15.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "运动出行",
+      "promo": [
+        "./img/block_sport_promo_01.jpg",
+        "./img/block_sport_promo_02.jpg"
+      ],
+      "content": [
+        {
+          "sort": "平衡车/滑板车",
+          "list": [
+            {
+              "name": "小米10 Pro",
+              "brief": "骁龙865 / 50倍变焦",
+              "price": "4999",
+              "oldPrice": "",
+              "img": "./img/block_electric_11.jpg"
+            },
+            {
+              "name": "小米10",
+              "brief": "骁龙865/1亿像素相机",
+              "price": "3999",
+              "oldPrice": "",
+              "img": "./img/block_electric_15.jpg"
+            },
+            {
+              "name": "Redmi K30",
+              "brief": "120Hz流速屏，全速热爱",
+              "price": "1599",
+              "oldPrice": "1699",
+              "img": "./img/block_electric_23.jpg"
+            },
+            {
+              "name": "Redmi K30 5G",
+              "brief": "双模5G，120Hz流速屏",
+              "price": "1999",
+              "oldPrice": "",
+              "img": "./img/block_electric_16.jpg"
+            },
+            {
+              "name": "Redmi Note 8 Pro",
+              "brief": "6400万全场景四摄",
+              "price": "1199",
+              "oldPrice": "1399",
+              "img": "./img/block_electric_05.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_06.jpg"
+            },
+            {
+              "name": "Redmi Note 2",
+              "brief": "千元3800万四摄",
+              "price": "1899",
+              "oldPrice": "1999",
+              "img": "./img/block_electric_07.jpg"
+            },
+            {
+              "name": "Redmi Note 2",
+              "brief": "千元3800万四摄",
+              "price": "1899",
+              "oldPrice": "1999",
+              "img": "./img/block_electric_08.jpg"
+            }
+          ]
+        },
+        {
+          "sort": "运动健身",
+          "list": [
+            {
+              "name": "小米10 Pro",
+              "brief": "骁龙865 / 50倍变焦",
+              "price": "4999",
+              "oldPrice": "",
+              "img": "./img/block_electric_13.jpg"
+            },
+            {
+              "name": "小米10",
+              "brief": "骁龙865/1亿像素相机",
+              "price": "3999",
+              "oldPrice": "",
+              "img": "./img/block_electric_11.jpg"
+            },
+            {
+              "name": "Redmi K30",
+              "brief": "120Hz流速屏，全速热爱",
+              "price": "1599",
+              "oldPrice": "1699",
+              "img": "./img/block_electric_14.jpg"
+            },
+            {
+              "name": "Redmi K30 5G",
+              "brief": "双模5G，120Hz流速屏",
+              "price": "1999",
+              "oldPrice": "",
+              "img": "./img/block_electric_22.jpg"
+            },
+            {
+              "name": "Redmi Note 8 Pro",
+              "brief": "6400万全场景四摄",
+              "price": "1199",
+              "oldPrice": "1399",
+              "img": "./img/block_electric_01.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_14.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_05.jpg"
+            }
+          ]
+        },
+        {
+          "sort": "箱包配饰",
+          "list": [
+            {
+              "name": "小米10 Pro",
+              "brief": "骁龙865 / 50倍变焦",
+              "price": "4999",
+              "oldPrice": "",
+              "img": "./img/block_electric_08.jpg"
+            },
+            {
+              "name": "小米10",
+              "brief": "骁龙865/1亿像素相机",
+              "price": "3999",
+              "oldPrice": "",
+              "img": "./img/block_electric_17.jpg"
+            },
+            {
+              "name": "Redmi K30",
+              "brief": "120Hz流速屏，全速热爱",
+              "price": "1599",
+              "oldPrice": "1699",
+              "img": "./img/block_electric_14.jpg"
+            },
+            {
+              "name": "Redmi K30 5G",
+              "brief": "双模5G，120Hz流速屏",
+              "price": "1999",
+              "oldPrice": "",
+              "img": "./img/block_electric_19.jpg"
+            },
+            {
+              "name": "Redmi Note 8 Pro",
+              "brief": "6400万全场景四摄",
+              "price": "1199",
+              "oldPrice": "1399",
+              "img": "./img/block_electric_05.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_21.jpg"
+            },
+            {
+              "name": "Redmi Note 2",
+              "brief": "千元3800万四摄",
+              "price": "1899",
+              "oldPrice": "1999",
+              "img": "./img/block_electric_07.jpg"
+            },
+            {
+              "name": "Redmi Note 2",
+              "brief": "千元3800万四摄",
+              "price": "1899",
+              "oldPrice": "1999",
+              "img": "./img/block_electric_23.jpg"
+            }
+          ]
+        },
+        {
+          "sort": "出行工具",
+          "list": [
+            {
+              "name": "小米10 Pro",
+              "brief": "骁龙865 / 50倍变焦",
+              "price": "4999",
+              "oldPrice": "",
+              "img": "./img/block_electric_03.jpg"
+            },
+            {
+              "name": "Redmi K30 5G",
+              "brief": "双模5G，120Hz流速屏",
+              "price": "1999",
+              "oldPrice": "",
+              "img": "./img/block_electric_13.jpg"
+            },
+            {
+              "name": "Redmi Note 8 Pro",
+              "brief": "6400万全场景四摄",
+              "price": "1199",
+              "oldPrice": "1399",
+              "img": "./img/block_electric_12.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_02.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_15.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "日用百货",
+      "promo": [
+        "./img/block_daily_promo_01.jpg",
+        "./img/block_daily_promo_02.jpg"
+      ],
+      "content": [
+        {
+          "sort": "个护健康",
+          "list": [
+            {
+              "name": "小米10 Pro",
+              "brief": "骁龙865 / 50倍变焦",
+              "price": "4999",
+              "oldPrice": "",
+              "img": "./img/block_electric_05.jpg"
+            },
+            {
+              "name": "小米10",
+              "brief": "骁龙865/1亿像素相机",
+              "price": "3999",
+              "oldPrice": "",
+              "img": "./img/block_electric_04.jpg"
+            },
+            {
+              "name": "Redmi K30",
+              "brief": "120Hz流速屏，全速热爱",
+              "price": "1599",
+              "oldPrice": "1699",
+              "img": "./img/block_electric_13.jpg"
+            },
+            {
+              "name": "Redmi K30 5G",
+              "brief": "双模5G，120Hz流速屏",
+              "price": "1999",
+              "oldPrice": "",
+              "img": "./img/block_electric_06.jpg"
+            },
+            {
+              "name": "Redmi Note 8 Pro",
+              "brief": "6400万全场景四摄",
+              "price": "1199",
+              "oldPrice": "1399",
+              "img": "./img/block_electric_05.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_06.jpg"
+            },
+            {
+              "name": "Redmi Note 2",
+              "brief": "千元3800万四摄",
+              "price": "1899",
+              "oldPrice": "1999",
+              "img": "./img/block_electric_07.jpg"
+            },
+            {
+              "name": "Redmi Note 2",
+              "brief": "千元3800万四摄",
+              "price": "1899",
+              "oldPrice": "1999",
+              "img": "./img/block_electric_08.jpg"
+            }
+          ]
+        },
+        {
+          "sort": "电源/线材",
+          "list": [
+            {
+              "name": "小米10 Pro",
+              "brief": "骁龙865 / 50倍变焦",
+              "price": "4999",
+              "oldPrice": "",
+              "img": "./img/block_electric_12.jpg"
+            },
+            {
+              "name": "小米10",
+              "brief": "骁龙865/1亿像素相机",
+              "price": "3999",
+              "oldPrice": "",
+              "img": "./img/block_electric_01.jpg"
+            },
+            {
+              "name": "Redmi K30",
+              "brief": "120Hz流速屏，全速热爱",
+              "price": "1599",
+              "oldPrice": "1699",
+              "img": "./img/block_electric_13.jpg"
+            },
+            {
+              "name": "Redmi K30 5G",
+              "brief": "双模5G，120Hz流速屏",
+              "price": "1999",
+              "oldPrice": "",
+              "img": "./img/block_electric_12.jpg"
+            },
+            {
+              "name": "Redmi Note 8 Pro",
+              "brief": "6400万全场景四摄",
+              "price": "1199",
+              "oldPrice": "1399",
+              "img": "./img/block_electric_01.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_14.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_05.jpg"
+            }
+          ]
+        },
+        {
+          "sort": "儿童用品",
+          "list": [
+            {
+              "name": "小米10 Pro",
+              "brief": "骁龙865 / 50倍变焦",
+              "price": "4999",
+              "oldPrice": "",
+              "img": "./img/block_electric_18.jpg"
+            },
+            {
+              "name": "小米10",
+              "brief": "骁龙865/1亿像素相机",
+              "price": "3999",
+              "oldPrice": "",
+              "img": "./img/block_electric_07.jpg"
+            },
+            {
+              "name": "Redmi K30",
+              "brief": "120Hz流速屏，全速热爱",
+              "price": "1599",
+              "oldPrice": "1699",
+              "img": "./img/block_electric_04.jpg"
+            },
+            {
+              "name": "Redmi K30 5G",
+              "brief": "双模5G，120Hz流速屏",
+              "price": "1999",
+              "oldPrice": "",
+              "img": "./img/block_electric_09.jpg"
+            },
+            {
+              "name": "Redmi Note 8 Pro",
+              "brief": "6400万全场景四摄",
+              "price": "1199",
+              "oldPrice": "1399",
+              "img": "./img/block_electric_05.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_21.jpg"
+            },
+            {
+              "name": "Redmi Note 2",
+              "brief": "千元3800万四摄",
+              "price": "1899",
+              "oldPrice": "1999",
+              "img": "./img/block_electric_07.jpg"
+            },
+            {
+              "name": "Redmi Note 2",
+              "brief": "千元3800万四摄",
+              "price": "1899",
+              "oldPrice": "1999",
+              "img": "./img/block_electric_23.jpg"
+            }
+          ]
+        },
+        {
+          "sort": "家居床品",
+          "list": [
+            {
+              "name": "小米10 Pro",
+              "brief": "骁龙865 / 50倍变焦",
+              "price": "4999",
+              "oldPrice": "",
+              "img": "./img/block_electric_13.jpg"
+            },
+            {
+              "name": "Redmi K30 5G",
+              "brief": "双模5G，120Hz流速屏",
+              "price": "1999",
+              "oldPrice": "",
+              "img": "./img/block_electric_03.jpg"
+            },
+            {
+              "name": "Redmi Note 8 Pro",
+              "brief": "6400万全场景四摄",
+              "price": "1199",
+              "oldPrice": "1399",
+              "img": "./img/block_electric_02.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_12.jpg"
+            },
+            {
+              "name": "Redmi Note 8",
+              "brief": "千元4800万四摄",
+              "price": "899",
+              "oldPrice": "999",
+              "img": "./img/block_electric_15.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
